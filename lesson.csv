@@ -1,0 +1,11 @@
+name,cost_in_rubles,lesson_name,duration_in_week,projects,site
+skill_factory,69000,data_analytic,24,4,https://skillfactory.ru/data-analytics
+skillbox,95000,data_analytic,56,1,https://skillbox.ru/course/profession-data-analyst/
+yandex_praktikum,75000,data_analytic,24,3,https://praktikum.yandex.ru/profile/data-analyst/
+netology,60000,system_analytic,72,6,https://netology.ru/programs/analytics-dwh#/
+udemy,2290,power_bi,2,0,https://www.udemy.com/course/power-bi-v/
+specialist,26950,power_bi,3,0,https://www.specialist.ru/course/m20780
+specialist,39550,SQL,5,0,https://www.specialist.ru/course/m20761a
+udemy,1790,SQL,1,0,https://www.udemy.com/course/sql-essentials-ru/
+netology,96000,data_analytic,44,6,https://netology.ru/programs/data_analyst_ultimate
+netology,84000,analytic_BI,44,6,https://netology.ru/programs/probusinessintelligence#/
