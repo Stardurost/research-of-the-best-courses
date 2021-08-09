@@ -20,3 +20,4 @@ In the study, I applied the knowledge of Pandas Python and matplotlib.
   <li>Step 3. Installing Jupiter and all required enviroments: matplotlib, numpy, pandas.</li>
   <li>Step 4. Working in jupiter and publish on github.</li>
 </ul>
+![alt text](example.com/logo.png)
