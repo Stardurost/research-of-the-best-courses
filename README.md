@@ -19,10 +19,13 @@
   <li><b>3 Шаг.</b> Устанавливаю Jupyter и все необходимые расширения: matplotlib, numpy, pandas.
 Т.к. это мой первый проект в области аналитики, никакого ПО для работы у меня ещё не установлено. Через удобный интерфейс программы Anaconda Navigator я с лёгкостью установила все пакеты расширений и принялась за работу. 
    
+ ![screen](https://user-images.githubusercontent.com/88589361/128732055-540c2fb4-95e5-4149-94f6-3526de65f8ce.png)
   
 </li><li><b>4 Шаг.</b> Оформление работы в самом Jupyter и публикация в GitHub. 
-</ul>
 
+![screen4 ](https://user-images.githubusercontent.com/88589361/128732443-dba53f26-45a4-4105-a764-c5bca608b8e8.png)
+
+</ul>
 ---------------------------------------------------------------------------------------------------------------------------------------
 
 I conducted a study of online courses and identified the most suitable ones for myself. 
@@ -33,7 +36,5 @@ In the study, I applied the knowledge of Pandas Python and matplotlib.
   <li><b>Step 3.</b> Installing Jupiter and all required enviroments: matplotlib, numpy, pandas.</li>
   <li><b>Step 4.</b> Working in jupiter and publish on github.</li>
 </ul>
-![screen0](https://user-images.githubusercontent.com/88589361/128710596-4f5a03c5-b55f-4a45-8229-a219ff7b4a42.png)
-![screen1](https://user-images.githubusercontent.com/88589361/128710602-b08e29dc-27fc-4479-8696-be7aac447904.png)
-![screen2](https://user-images.githubusercontent.com/88589361/128710604-eb976a39-db36-4c5b-9e8f-af2102486496.png)
-![screen3](https://user-images.githubusercontent.com/88589361/128710606-253cc789-0111-461b-b8e3-004e624eee1f.png)
+
+
