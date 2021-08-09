@@ -4,7 +4,7 @@
 <ul>
     <li>1 Шаг. Сбор информации на официальном сайте и создание таблицы. 
 Я обошла все сайты известных мне образовательных курсов на русском языке, и внесла их в таблицу. Далее я внесла все необходимые характеристики: стоимость курса, направление, количество самостоятельных проектов, продолжительность курса (в неделях).
-      ![screen0](https://user-images.githubusercontent.com/88589361/128633858-187f93cd-9884-4cb1-a261-77b16c2393cc.png)</li>
+      ![screen0](https://github.com/Stardurost/research-of-the-best-courses/blob/dd7d6125d6d11b759d6045c44f68df0f79e45dc3/screen0.png)</li>
   <li>2 Шаг. Удобную таблицу Excel преобразую в файл .csv более удобный для работы в Jupyter.
 ![screen1](https://user-images.githubusercontent.com/88589361/128633859-3c4056fb-8593-4abd-93ec-05cecfc8419c.png)
   ![screen2](https://user-images.githubusercontent.com/88589361/128633861-e384636b-687d-45f3-9dda-fdc3d4b20419.png)</li>
